@@ -1,6 +1,5 @@
 # Portfolio-Website
 Template html code for protfolio website
-[![CI Status](http://img.shields.io/travis/fulldecent/html-website-template.svg?style=flat)]()
 
 ## About
 
